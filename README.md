@@ -21,11 +21,15 @@ Estrutura modular:
 
 ---
 
-## ⚙️ Funcionalidades atuais (Versão 1)  
-- [x] Adicionar receita.  
-- [x] Adicionar despesa.  
-- [x] Visualizar saldo.  
-- [x] Estrutura POO (classe `Carteira`).  
+## ⚙️ Funcionalidades atuais (Versão 2)
+
+- [x] Adicionar receita.
+- [x] Adicionar despesa.
+- [x] Visualizar saldo.
+- [x] Estrutura POO (classe `Carteira`).
+- [x] Categorias fixas para receitas e despesas.
+- [x] Opção de criar novas categorias dinamicamente ("Outra categoria").
+- [x] Resumo detalhado de todas as categorias ao visualizar saldo.
 
 ---
 
